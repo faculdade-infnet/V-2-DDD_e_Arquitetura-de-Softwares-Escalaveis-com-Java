@@ -1,0 +1,31 @@
+@startuml TP1 - ValueObject
+skinparam classAttributeIconSize 0
+
+
+class Usuario <<Entity>> {
+    - id : String
+    - nome : String
+    - email : Email
+    + Usuario(id: Long, nome: String, email: Email)
+    + getId(): Long
+    + getNome(): String
+    + getEmail(): Email
+    + alterarEmail(novoEmail: Email): void
+    + equals(obj: Object): boolean
+    + hashCode(): int
+}
+
+class Email <<ValueObject>>{
+    - endereço : String
+    + Email(endereco: String) 
+    // Validações: não nulo, não vazio, formato válido
+    + getEndereco(): String
+    + equals(obj: Object): boolean
+    + hashCode(): int
+    + toString(): String
+}
+
+' Associação entre a Entity e o Value Object
+Usuario --> Email
+
+@enduml
