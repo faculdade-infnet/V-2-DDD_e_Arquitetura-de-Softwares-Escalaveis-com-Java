@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>br.edu.infnet</groupId>
-    <artifactId>DR4_E2_A1_Entiry</artifactId>
+    <artifactId>DR4_E2_A1_Entity</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>DR4_E2_A1_Entity</name>
     <description>DR4_E2_A1_Entity</description>
