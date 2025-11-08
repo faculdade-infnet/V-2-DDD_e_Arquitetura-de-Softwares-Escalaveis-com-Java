@@ -11,6 +11,9 @@
       <sourceFolder url="file://$MODULE_DIR$/DR4_E3_A1_Pedido/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DR4_E3_A1_Pedido/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/DR4_E3_A1_Pedido/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/DR4_E4_A1/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DR4_E4_A1/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/DR4_E4_A1/src/test/java" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

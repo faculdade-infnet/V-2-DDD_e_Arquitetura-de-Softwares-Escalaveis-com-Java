@@ -1,0 +1,4 @@
+# Nunca versionar chaves e credenciais
+*.json
+!package.json
+!tsconfig*.json
