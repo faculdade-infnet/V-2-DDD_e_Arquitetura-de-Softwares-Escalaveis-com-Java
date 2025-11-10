@@ -1,0 +1,40 @@
+@startuml petfriends-event-architecture
+' Pet Friends - arquitetura orientada a eventos (componentes)
+
+skinparam componentStyle rectangle
+skinparam shadowing false
+skinparam rectangle {
+  BackgroundColor<<app>> #D6EAF8
+  BackgroundColor<<publisher>> #D5F5E3
+  BackgroundColor<<broker>> #FAD7A0
+  BackgroundColor<<svc>> #EBF5FB
+  BorderColor black
+}
+
+rectangle "Pet Friends\n(App / Bounded Contexts)" as App <<app>>
+rectangle "Domain Event Publisher\n(library / adapter)" as Publisher <<publisher>>
+rectangle "Message Broker\n(Kafka / RabbitMQ / PubSub)\n(topics/queues)" as Broker <<broker>>
+
+component "Serviço de Notificação\n(subscriber)" as Notif <<svc>>
+component "Serviço de Agendamento\n(subscriber / consumer)" as Agend <<svc>>
+component "Serviço de Veterinários\n(subscriber / consumer)" as Vet <<svc>>
+
+App --> Publisher : publica evento (ex: AgendamentoConfirmado)
+Publisher --> Broker : publica no topic/queue
+Broker --> Notif : entrega evento (topic: agendamento-confirmado)
+Broker --> Agend : entrega evento (topic: agendamento-confirmado)
+Broker --> Vet : entrega evento (topic: veterinario-*) 
+
+' notas / observações
+note right of Publisher
+  - Serialização (JSON/Avro/Proto)
+  - Enriquecimento mínimo (eventId, occurredOn)
+  - Retry/circuit-breaker se broker indisponível
+end note
+
+note left of Broker
+  - Retenção, particionamento, garantias de entrega
+  - Configurar tópicos por tipo de evento
+end note
+
+@enduml
