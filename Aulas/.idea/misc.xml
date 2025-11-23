@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="KubernetesApiPersistence">{}</component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/Aula03_DR4_E2_A1_Entity/pom.xml" />
-        <option value="$PROJECT_DIR$/Aula02_DR4_E1_A2_ValueObject/pom.xml" />
+        <option value="$PROJECT_DIR$/DR4_E4_A1/pom.xml" />
+        <option value="$PROJECT_DIR$/DR4_E5_A1/pom.xml" />
+        <option value="$PROJECT_DIR$/DR4_E2_A1_Entity/pom.xml" />
+        <option value="$PROJECT_DIR$/DR4_E3_A1_Pedido/pom.xml" />
+        <option value="$PROJECT_DIR$/DR4_E6_A2_Stream/pom.xml" />
+        <option value="$PROJECT_DIR$/DR4_E1_A2_ValueObject/pom.xml" />
       </list>
     </option>
   </component>

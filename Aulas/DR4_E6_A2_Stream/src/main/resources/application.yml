@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: DR4_E6_A2_Stream
+  cloud:
+    gcp:
+      project-id: softwares-escalaveis
+      credentials:
+        location: classpath:softwares-escalaveis-a12fc70b8812:json
+    function:
+      definition: receberMensagem
+#    function:
+#      definition: receberMensagem;enviarMensagem
+#-------------------------------------------------------------------------------
+    stream:
+      gcp:
+        pubsub:
+          default:
+            consumer:
+              auto-create-resources:false
+            producer:
+              auto-create-resources=false
+        bindings:
+          enviarMensagem-out-0:
+            destination: dr4_topic
+          receberMensagem-in-0:
+            consumer:
+              subscription-name: dr4_sub
+#-------------------------------------------------------------------------------

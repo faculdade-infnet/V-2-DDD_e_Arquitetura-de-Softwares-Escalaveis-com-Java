@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d609736-e4e8-424a-b76a-290412dcfef0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Aulas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Aulas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/IntelliLang.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E1_A2_ValueObject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E1_A2_ValueObject/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E1_A2_ValueObject/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E1_A2_ValueObject/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E1_A2_ValueObject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E1_A2_ValueObject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/h2_databases/DR4_1.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/h2_databases/DR4_1.trace.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/src/main/java/br/edu/infnet/Dr4E4A1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/src/main/java/br/edu/infnet/domain/ItemPedido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/src/main/java/br/edu/infnet/domain/Pedido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/src/main/java/br/edu/infnet/domain/ValorMonetario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/src/main/java/br/edu/infnet/eventos/EstadoPedidoMudou.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/src/main/java/br/edu/infnet/infra/EstadoPedidoMudouDeserializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/src/main/java/br/edu/infnet/infra/EstadoPedidoMudouSerializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/src/main/java/br/edu/infnet/infra/PedidoDeserializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/src/main/java/br/edu/infnet/infra/PedidoMessageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/src/main/java/br/edu/infnet/infra/PedidoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/src/main/java/br/edu/infnet/infra/PedidoSerializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/src/main/java/br/edu/infnet/infra/ValorMonetarioConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR4_E4_A1 meu/src/test/java/br/edu/infnet/Dr4E4A1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h2_databases/DR4_1.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP2/documentos/~$muel_hermany_DR4_TP2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP2/documentos/~WRL0005.tmp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;samuelhermany&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:faculdade-infnet/V-2-DDD_e_Arquitetura-de-Softwares-Escalaveis-com-Java.git&quot;,
+    &quot;accountId&quot;: &quot;91b0419c-b998-47b6-b691-4e1aeba148f0&quot;
+  }
+}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="35qqK8JAe22UP4VdD82tnpWsGyk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Dr4E5A1Application.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.Dr4E5A1Application">
+    <configuration name="Dr4E2A1EntityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="DR4_E2_A1_Entity" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.edu.infnet.Dr4E2A1EntityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dr4E3A1PedidoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="DR4_E3_A1_Pedido" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.edu.infnet.Dr4E3A1PedidoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dr4E5A1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="DR4_E5_A1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.edu.infnet.Dr4E5A1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28238.7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d609736-e4e8-424a-b76a-290412dcfef0" name="Changes" comment="" />
+      <created>1763847884284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763847884284</updated>
+      <workItem from="1763847885951" duration="2824000" />
+      <workItem from="1763858787138" duration="4868000" />
+      <workItem from="1763917078234" duration="9681000" />
+      <workItem from="1763929120984" duration="134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

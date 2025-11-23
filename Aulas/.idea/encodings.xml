@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/Aula02_DR4_E1_A2_ValueObject/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Aula02_DR4_E1_A2_ValueObject/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Aula03_DR4_E2_A1_Entity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DR4_E1_A2_ValueObject/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DR4_E1_A2_ValueObject/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DR4_E2_A1_Entity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DR4_E3_A1_Pedido/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DR4_E4_A1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DR4_E5_A1/src/main/java" charset="UTF-8" />
   </component>
 </project>

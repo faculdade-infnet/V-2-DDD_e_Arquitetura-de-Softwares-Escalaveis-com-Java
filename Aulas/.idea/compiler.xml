@@ -6,14 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="DR4_E2_A1_Entiry" />
+        <module name="DR4_E6_A2_Stream" />
+        <module name="DR4_E5_A1" />
         <module name="DR4_E1_A2_ValueObject" />
+        <module name="DR4_E4_A1" />
+        <module name="DR4_E2_A1_Entity" />
+        <module name="DR4_E3_A1_Pedido" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="DR4_E2_A1_Entiry" options="-parameters" />
+      <module name="DR4_E2_A1_Entity" options="-parameters" />
+      <module name="DR4_E3_A1_Pedido" options="-parameters" />
+      <module name="DR4_E4_A1" options="-parameters" />
+      <module name="DR4_E5_A1" options="-parameters" />
+      <module name="DR4_E6_A2_Stream" options="-parameters" />
     </option>
   </component>
 </project>

@@ -2,19 +2,7 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/DR4_E1_A2_ValueObject/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DR4_E1_A2_ValueObject/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/DR4_E2_A1_Entity/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DR4_E2_A1_Entity/src/main/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/DR4_E2_A1_Entity/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/DR4_E3_A1_Pedido/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DR4_E3_A1_Pedido/src/main/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/DR4_E3_A1_Pedido/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/DR4_E4_A1/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DR4_E4_A1/src/main/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/DR4_E4_A1/src/test/java" isTestSource="true" />
-    </content>
+    <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
